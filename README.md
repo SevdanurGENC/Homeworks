@@ -3,7 +3,9 @@ This report consists of homeworks of TMYO's computer programming students.
 
 
 
-Nesne Tabanli Programlama dersi icin sorumlu olunacak ders linkleri : 
+2. Sınıflar için : 
+
+Nesne Tabanli Programlama dersi icin sorumlu olunacak tum derslerle ilgili linkler : 
 
 https://www.youtube.com/watch?v=Aevyd3hxBrs&list=PL2gbeBICuwU5muoXJNnsW7MRMytum5wEI&index=1
 https://www.youtube.com/watch?v=OZDga_T2b0Y&list=PL2gbeBICuwU5muoXJNnsW7MRMytum5wEI&index=3
@@ -11,7 +13,7 @@ https://www.youtube.com/watch?v=RK6M_9bZnNk&list=PL2gbeBICuwU5muoXJNnsW7MRMytum5
 https://www.youtube.com/watch?v=Al5P1edGrRU&list=PL2gbeBICuwU5muoXJNnsW7MRMytum5wEI&index=8
 https://www.youtube.com/watch?v=jnLvEXZEscc&list=PL2gbeBICuwU5muoXJNnsW7MRMytum5wEI&index=9
 
-Veri Tabani 1 dersi icin trigger konusu calilacak :
+Veri Tabani 1 dersi icin son iki haftanın konusu "trigger"a ait calisilacak video :
 
 https://www.youtube.com/watch?v=ZC9VRJD6rX0&list=PL2gbeBICuwU4Lr13fdNTE34V9Z7Wq3EEy&index=20
 https://www.youtube.com/watch?v=6omaz7azLPk&list=PL2gbeBICuwU4Lr13fdNTE34V9Z7Wq3EEy&index=21
@@ -26,5 +28,4 @@ ONEMLI : Sinav konu baslıkları, her ders icin tum donemin konularini kapsamakt
 
 
 
-
-
+1. Sınıflar İçin : 
