@@ -29,3 +29,32 @@ ONEMLI : Sinav konu baslıkları, her ders icin tum donemin konularini kapsamakt
 
 
 1. Sınıflar İçin : 
+
+Grafik Animasyon dersi : vizeden bu yana işlenen derse ait videolarda yapılan uygulamalar ödevdir. Sınav için vizelerde geliştirmiş olduğunuz projelere öğrenmiş olduğunuz yeni teknikleri ekleyiniz. Sınav notunuz ödev ve projenin birleşiminden verilecek olup herhangi bir sınav tekniği uygulanmayacaktır. sınav takvimindeki saatte imza ve ödev ve sınav projelerinin teslimi için lab'de bulunmanız gerekmektedir.
+
+Office Dersi için : sınav kapsamı power point ve access içerikli ve test olacaktır. sınav notuna access ödevi eklenecektir (ödev tamamen tercihtir isteyen ödevi yapacak, ödev teslim edenlerin notları final notuna eklenecektir).
+
+Access için izlenmesi gereken video link listesi:
+https://www.youtube.com/playlist?list=PL2gbeBICuwU4T15mjGZ_rGOYVD4VbnRh-
+
+burada izlemiş olduğunuz kütüphane otomasyonuna benzer aşağıda seçmiş olduğunuz konulardan sadece biri ile çalışıp ilgili veritabanı ve tablolalarını oluşturmanız ve tüm dosyaları raporlarıyla birlikte arşivlenmiş dosya türüyle ya da drive'a yükleyerek mail adresime 29.01.2022 23.59'a kadar göndermeniz rica olunur. 
+
+Otomasyon yapabileceğiniz örnek konular : 
+
+1.	Öğrenci bilgi sistemi 
+2.	Demirbaş takip sistemi
+3.	Staj takip sistemi
+4.	Emlak takip sistemi
+5.	Ajans muhasebe programı
+6.	Araç kiralama otomasyonu
+7.	Kütüphane otomasyonu
+8.	Apartman otomasyonu
+9.	Stok takip programı
+10.	Hastane randevu sistemi
+11.	Sinema programı
+12.	Personel takip programı
+13.	Otobüs otomasyonu
+14.	Sınav sistemi programı
+15.	Ürün tanıtım sitesi
+16.	Dershane bilgi sistemi
+17.	Ajanda otomasyonu
